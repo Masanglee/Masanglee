@@ -2,7 +2,7 @@
 - 👀 웹퍼블리셔, 프론트 엔드 공부중입니다. 
 - 🌱 HTML CSS JS PYTHON 을 공부하고 있습니다. (어려워요)
 - 💞️ 구직중이에요...
-- 📫 qwesse12@naver.com
+- 📫 연락을 기다려요 qwesse12@naver.com
 - 
 
 <!---
